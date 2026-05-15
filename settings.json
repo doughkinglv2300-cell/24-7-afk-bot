@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Rex-network.play.hosting",
-    "port": 60027,
+    "ip": "rax-network.aternos.me",
+    "port": 27594,
     "version": "1.20.1",
     "try-creative": false
   },
